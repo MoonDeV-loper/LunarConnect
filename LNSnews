@@ -1,0 +1,3 @@
+#LNS ahora usa IDS$En LNS usamos códigos únicos para poder distinguir a cada usuario y así ellos podrán disfrutar de LNS.#
+#LNS se va a registrar por cada versión de generación.$Lo cual significa que cada vez que un grupo de versiones llega a su final, la siguiente versión grande cambiará todo la estética de LNS.#
+#No usamos firebase.$Es algo difícil no usar un sistema de inicio hecho para usarse como cuenta, entonces espere errores en las cuentas aveces.#
